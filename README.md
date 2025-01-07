@@ -1,2 +1,4 @@
 # lab-agile-planning
-This repository contains lab for agile training 
++ This repository contains a lab for agile training 
++ I am Sasha
++ I am here to learn about managing a Scrum Team 
